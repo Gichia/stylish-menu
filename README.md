@@ -21,6 +21,9 @@ Peter Gichia
 
 1.0.0
 
+### View Live
+[Stylish Menu](https://gichia.github.io/stylish-menu/ "Load Preview")
+
 ### License
 
 This project is licensed under the MIT License
